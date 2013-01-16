@@ -1,4 +1,5 @@
 (function($) {  
+/*modified*/
 	var self = null;
  	
 	$.fn.liveUpdate = function(list) {	
